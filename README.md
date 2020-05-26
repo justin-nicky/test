@@ -1,2 +1,2 @@
 # test
-just to learn more about git
+just to learn more about git and github
